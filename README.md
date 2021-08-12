@@ -1,6 +1,8 @@
 # SnakeGame
 lite version of the classic game “Snake”
 
+Demo : https://youtu.be/5qlA-FMZwOU
+
 To run the code-
 Run the "main" method from Game.java, 
 Please use W - top, A- left, S- down  D- right keys to move the snake.
